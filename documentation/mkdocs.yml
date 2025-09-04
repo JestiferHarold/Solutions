@@ -1,0 +1,6 @@
+site_name: DSA  
+nav:
+  - Home: index.md
+  - README: README.md
+  - Food: reference.md
+  - Wahat: what.md
